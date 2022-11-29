@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slao87
+- 👋 Hi, I’m @mediabyt
 - 👀 I’m interested in ...coding,programming apps,
 - 🌱 I’m currently learning ...java,html,css,js etc
 - 💞️ I’m looking to collaborate on ...java,js, etc
